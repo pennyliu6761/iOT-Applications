@@ -18,14 +18,19 @@
 - 學會用 `int` 變數取代腳位數字，養成良好命名習慣。
 - 第一次接觸 `for` 迴圈，體會「重複邏輯」如何簡化程式碼。
 
+<img width="884" height="481" alt="image" src="https://github.com/user-attachments/assets/d8212800-af6f-4c60-af5a-e92b4acd82cd" />
+<img width="605" height="344" alt="image" src="https://github.com/user-attachments/assets/c2aaf1ae-811b-4091-bfaf-48df46479c11" />
+<img width="1103" height="590" alt="image" src="https://github.com/user-attachments/assets/16105106-61ac-4ea8-932f-e0ce8892c2b6" />
+<img width="302" height="810" alt="image" src="https://github.com/user-attachments/assets/cf5ae9b2-eb0c-4962-81c4-f99d61dca4a5" />
+
 ### 🔌 Tinkercad 電路搭建指引
 > 本週電路會逐步升級，請依照下列順序操作。
 
 **Step A（實作 1-2 用）：最簡電路，不使用麵包板**
 1. 在 Tinkercad 元件庫拖曳一個 **Arduino Uno R3** 到工作區。
 2. 拖曳一顆 **LED** 到旁邊。
-3. 用導線將 LED 的**長腳（正極, Anode）**接到 Arduino 的 **Pin 13**。
-4. 用導線將 LED 的**短腳（負極, Cathode）**接到 Arduino 的 **GND**。
+3. 用導線將 LED 的 **長腳（正極, Anode）** 接到 Arduino 的 **Pin 13**。
+4. 用導線將 LED 的 **短腳（負極, Cathode）** 接到 Arduino 的 **GND**。
 5. 點選右上角「Code」開啟程式編輯視窗，切換為「文字模式（Text）」。
 
 > ⚠️ 教學提醒：此步驟省略電阻是為了讓學生「先看見結果」，第 3 小時會補上正確的防護電阻觀念，並解釋長期真實硬體上必須加電阻，模擬環境才允許省略。
